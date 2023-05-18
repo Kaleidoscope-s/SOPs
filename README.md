@@ -1,4 +1,4 @@
-# SOPs
+# Standard Operating Procedures (SOPs)
 
 # Table of Contents
 
